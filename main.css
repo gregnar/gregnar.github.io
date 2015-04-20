@@ -1,4 +1,3 @@
-
 #big-image {
   height: 100%;
   background-image: url('background.jpg'); 
@@ -6,4 +5,31 @@
   background-size: cover;
   overflow: hidden;
   z-index: 0;
+}
+
+a {
+  color: #EB7E52;
+  /*color: #59B88F;*/
+  font-weight: bold;
+}
+
+p {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+a:hover { 
+  color: black;
+}
+
+h1 {
+  margin-bottom: 1em;
+  color: #59B88F;
+  letter-spacing: 3px;
+  /*color: #EB7E52;*/
+  text-shadow: 2px;
+}
+
+#main-text {
+  top: 4em;
 }
