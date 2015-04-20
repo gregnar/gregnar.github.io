@@ -1,8 +1,8 @@
 #big-image {
   height: 100%;
-  background-image: url('background.jpg'); 
+  background-image: url('backgroundedited.jpg'); 
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   overflow: hidden;
   z-index: 0;
 }
@@ -31,5 +31,5 @@ h1 {
 }
 
 #main-text {
-  top: 4em;
+  top: 11em;
 }
